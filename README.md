@@ -44,7 +44,7 @@
 [![Git](https://img.shields.io/badge/Git-Version%20Control%20System-%23999999?logo=git&style=flat-square)](https://aws.amazon.com/s3/)
 
 ## ☄️ Experience
-🇺🇦 🇩🇪 **Jun 2024 - Feb 2025. Full Stack Developer** at Graintack
+🇺🇦 **Jun 2024 - Feb 2025. Full Stack Developer** at Graintack
 - Designed and implemented a wide range of UI components, from toolbars to complex data tables. Focused on ensuring scalability and customisation.
 - Developed and implemented inline editing for a data grid, allowing users to modify values directly within the table. Focused on minimizing re-renders to optimize performance and improve the user experience.
 - Developed and designed a view configurator that allows users to switch between different data display formats, such as table, list, or kanban board, using the adapter pattern to customize data.
