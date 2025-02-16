@@ -1,4 +1,4 @@
-### <div align="center">Hi! I'm Daniil, a Full Stack Developer 👨‍💻 with 1.5 years of commercial experience 🚀</div>
+### <div align="center">Hi! I'm Daniil, a Full Stack Developer 👨‍💻 with 2.5 years of commercial experience 🚀</div>
 
 
 - 🔭 I specialize in building complex and scalable web applications using modern web technologies such as React, Next.js, Node.js, and others.
@@ -44,6 +44,21 @@
 [![Git](https://img.shields.io/badge/Git-Version%20Control%20System-%23999999?logo=git&style=flat-square)](https://aws.amazon.com/s3/)
 
 ## ☄️ Experience
+🇺🇦 🇩🇪 **Jun 2024 - Feb 2025. Full Stack Developer** at Graintack
+- Designed and implemented a wide range of UI components, from toolbars to complex data tables. Focused on ensuring scalability and customisation.
+- Developed and implemented inline editing for a data grid, allowing users to modify values directly within the table. Focused on minimizing re-renders to optimize performance and improve the user experience.
+- Developed and designed a view configurator that allows users to switch between different data display formats, such as table, list, or kanban board, using the adapter pattern to customize data.
+- Developed a custom solution to interact with a spreadsheet like Excel (copy, paste, etc.) using the univer.js library.
+- Designed and implemented new modules in the application using Nest.js, ensuring a modular and maintainable architecture.
+- Developed RESTful APIs for various modules, focusing on robust error handling, data validation, and adherence to REST principles.
+- Developed and integrated GraphQL APIs using Nest.js, optimizing data fetching and reducing over-fetching. Implemented Apollo Client in the frontend to efficiently manage state and execute queries, ensuring seamless communication between the client and server.
+- Developed the project's UI kit, using Radix primitives as a foundation. Created a cohesive set of components that followed design rules, ensuring consistency throughout the application.
+- Developed and designed a data display tool using TanStack Table and TanStack Virtual for grid-based data visualisation.
+- Used Test-Driven Development (TDD) to ensure robust and reliable code, writing extensive unit tests using Vitest.
+- Developed declaratively the store layer using RxJS to implement a reactive behaviour model.
+- Applied SOLID principles and clean code practices to component and system development, ensuring maintainability and scalability.
+- Designed and developed components and modules using UML diagrams, with a focus on use case diagrams, class diagrams, sequence and component diagrams.
+- Worked with the team to implement Domain-Driven Design (DDD) principles to ensure that our software architecture was closely aligned with business objectives
 
 🇺🇦 🇩🇪 **Mar 2024 - Jun 2024. Front-end Developer** at NikCode | CamnyAI
 - Developed an application from scratch using Isomorphic Furyroad template, Next.js 14 and Tailwind.
