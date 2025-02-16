@@ -19,7 +19,7 @@
 
 ## 💻 Things Related to My Projects
 
-### Front-End
+### Front-end
 [![Sass](https://img.shields.io/badge/SASS/SCSS-A%20CSS%20Preprocessor-%23EF5350?logo=sass&style=flat-square)](https://sass-lang.com/)
 [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-Instead%20of%20CSS-%23428BDD?logo=tailwindcss&style=flat-square)](https://tailwindcss.com/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-Like%20your%20Sister-%23FFD180?logo=javascript&style=flat-square)](https://developer.mozilla.org/docs/Web/JavaScript)
